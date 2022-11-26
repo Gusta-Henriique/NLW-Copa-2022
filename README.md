@@ -1,4 +1,4 @@
-@@ -0,0 +1,46 @@
+
 <h1 align="center"> NLW COPA - 2022 </h1>
 
 </p>
